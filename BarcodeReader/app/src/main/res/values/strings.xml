@@ -7,7 +7,7 @@
     <string name="title_activity_main">Barcode Reader Sample</string>
     <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
     <string name="read_barcode">Scan Barcode</string>
-    <string name="auto_focus">Auto Focus</string>
+    <string name="auto_focus">Enable Focus</string>
     <string name="use_flash">Enable Flash</string>
     <string name="barcode_success">Barcode successfully scanned</string>
     <string name="barcode_failure">Barcode Invalid</string>
